@@ -57,10 +57,3 @@ This project is a hands-on case study focused on analyzing insurance claim data.
 - Found patterns in police reporting behavior and claim types.
 - Performed temporal and categorical analysis on claims.
 
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/insurance-claims-analysis.git
